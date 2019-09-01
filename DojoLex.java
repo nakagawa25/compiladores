@@ -8,13 +8,8 @@ import java.util.regex.Pattern;
 /* DOJO - Analisador Léxico - Compiladores
  * Limpar arquivo e criar tabela de lexemas
  * 
- * Aluno: 
- * Lucas Polizeli e Jonatas 
- * João Marcos e Carlos
- * Letícia e Thales
- * BARRETO E LEOZIN
- * Murilo e Murilo
- * 
+ * Aluno:
+ * Lucas Nakagawa
  * 
  */
 
